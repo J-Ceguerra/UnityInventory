@@ -1,0 +1,156 @@
+[
+  {
+    "id": 0,
+    "title": "Steel Gloves",
+    "value": 7,
+    "stats": {
+      "power": 1,
+      "defence": 4,
+      "vitality": 10
+    },
+    "description": "These Gloves are hand crafted from steel",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "steel_gloves"
+  },
+  {
+    "id": 1,
+    "title": "Bronze Gloves",
+    "value": 4,
+    "stats": {
+      "power": 1,
+      "defence": 3,
+      "vitality": 7
+    },
+    "description": "These Gloves are not hand crafted from bronze, JK they are.",
+    "stackable": false,
+    "rarity": 1,
+    "sprite": "bronze_gloves"
+  },
+  {
+    "id": 2,
+    "title": "Manny Gloves",
+    "value": 10,
+    "stats": {
+      "power": 0,
+      "defence": 0,
+      "vitality": 10
+    },
+    "description": "For some reason these gloves come in manny pairs.",
+    "stackable": false,
+    "rarity": 10,
+    "sprite": "manny_gloves"
+  },
+  {
+    "id": 3,
+    "title": "Steel Armor",
+    "value": 10,
+    "stats": {
+      "power": 1,
+      "defence": 8,
+      "vitality": 12
+    },
+    "description": "This Chest Plate was hand crafted from steel.",
+    "stackable": false,
+    "rarity": 5,
+    "sprite": "steel_armor"
+  },
+  {
+    "id": 4,
+    "title": "Brzone Armor",
+    "value": 6,
+    "stats": {
+      "power": 1,
+      "defence": 5,
+      "vitality": 7
+    },
+    "description": "This Chest Plate aren't hand crafted from bronze, JK they are.",
+    "stackable": false,
+    "rarity": 3,
+    "sprite": "bronze_armor"
+  },
+  {
+    "id": 5,
+    "title": "Manny Armor",
+    "value": 11,
+    "stats": {
+      "power": 0,
+      "defence": 10,
+      "vitality": 0
+    },
+    "description": "For some reason this armor comes in manny pairs.",
+    "stackable": false,
+    "rarity": 10,
+    "sprite": "manny_armor"
+  },
+  {
+    "id": 6,
+    "title": "Steel Helm",
+    "value": 9,
+    "stats": {
+      "power": 2,
+      "defence": 7,
+      "vitality": 8
+    },
+    "description": "This Helm was hand crafted from steel.",
+    "stackable": false,
+    "rarity": 4,
+    "sprite": "steel_helm"
+  },
+  {
+    "id": 7,
+    "title": "Brzone Helm",
+    "value": 4,
+    "stats": {
+      "power": 1,
+      "defence": 4,
+      "vitality": 7
+    },
+    "description": "This Helm aren't hand crafted from bronze, JK they are.",
+    "stackable": false,
+    "rarity": 2,
+    "sprite": "bronze_helm"
+  },
+  {
+    "id": 8,
+    "title": "Manny Helm",
+    "value": 11,
+    "stats": {
+      "power": 0,
+      "defence": 5,
+      "vitality": 5
+    },
+    "description": "For some reason this helm comes in manny pairs.",
+    "stackable": false,
+    "rarity": 10,
+    "sprite": "manny_helm"
+  },
+  {
+    "id": 9,
+    "title": "Potion",
+    "value": 4,
+    "stats": {
+      "power": 0,
+      "defence": 0,
+      "vitality": 0
+    },
+    "description": "When you need health, drink me.",
+    "stackable": true,
+    "rarity": 2,
+    "sprite": "potion"
+  },
+  {
+    "id": 10,
+    "title": "Manny Potion",
+    "value": 10,
+    "stats": {
+      "power": 0,
+      "defence": 0,
+      "vitality": 0
+    },
+    "description": "I don't heal much, don't hoarde me or you will have to manny. P.S Not an elixir",
+    "stackable": true,
+    "rarity": 10,
+    "sprite": "potionB"
+  }
+]
